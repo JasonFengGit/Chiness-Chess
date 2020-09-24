@@ -1,4 +1,4 @@
-# ChinessChess
+# Chiness-Chess
 A Java implementation of Chiness Chess Game using Swing.
 
 ## Screenshots & GIFs
