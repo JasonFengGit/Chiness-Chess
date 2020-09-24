@@ -2,9 +2,9 @@
 A Java implementation of Chiness Chess Game using Swing.
 
 ## Screenshots & GIFs
-| ![G1](https://im7.ezgif.com/tmp/ezgif-7-2aa72a3d2a11.gif) | ![G2](https://im7.ezgif.com/tmp/ezgif-7-5a6010d23169.gif) |
+| ![G1](https://www.linkpicture.com/q/1_33.gif) | ![G2](https://www.linkpicture.com/q/2_4.gif) |
 |---------------------------------------------|---------------------------------------------|
-| ![G3](https://im7.ezgif.com/tmp/ezgif-7-78394ac335f5.gif) | ![G4](https://im7.ezgif.com/tmp/ezgif-7-70590ef540c1.gif)|
+| ![G3](https://www.linkpicture.com/q/3_3.gif) | ![G4](https://www.linkpicture.com/q/4_4.gif)|
 
 
 
