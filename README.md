@@ -7,7 +7,6 @@ A Java implementation of Chiness Chess Game using Swing.
 | ![G3](https://www.linkpicture.com/q/3_3.gif) | ![G4](https://www.linkpicture.com/q/4_4.gif)|
 
 
-
 ## Features
 - accurate move validity detection and warning 
 - save and load a certain game/endgame
@@ -23,8 +22,8 @@ ChinessChess.jar
 ```
 
 ## Improvements to Make
-- Add an AI
-- Add different themes for users to choose
-- Add different background musics
-- Add endgame mode with different endgames(using the load function)
+- Compete with multi-level AI
+- Different themes for users to choose
+- Different background musics
+- A endgame mode with different endgames(using the load function)
 - ...
