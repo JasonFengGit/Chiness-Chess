@@ -2,9 +2,9 @@
 A Java implementation of Chiness Chess Game using Swing.
 
 ## Screenshots & GIFs
-| ![G1](https://www.linkpicture.com/q/1_33.gif) | ![G2](https://www.linkpicture.com/q/2_4.gif) |
+| ![G1](https://github.com/JasonFengGit/ChinessChess/raw/master/Chinese%20Chess%20GIFs/1.gif) | ![G2](https://github.com/JasonFengGit/ChinessChess/raw/master/Chinese%20Chess%20GIFs/2.gif) |
 |---------------------------------------------|---------------------------------------------|
-| ![G3](https://www.linkpicture.com/q/3_3.gif) | ![G4](https://www.linkpicture.com/q/4_4.gif)|
+| ![G3](https://github.com/JasonFengGit/ChinessChess/raw/master/Chinese%20Chess%20GIFs/3.gif) | ![G4](https://github.com/JasonFengGit/ChinessChess/raw/master/Chinese%20Chess%20GIFs/4.gif)|
 
 
 ## Features
