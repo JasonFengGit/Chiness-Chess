@@ -18,7 +18,9 @@ A Java implementation of Chiness Chess Game using Swing.
 ```
 git clone https://github.com/JasonFengGit/ChinessChess
 cd ChinessChess
-ChinessChess.jar
+javac StartGame.java
+
+java StartGame
 ```
 
 ## Improvements to Make
